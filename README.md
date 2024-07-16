@@ -1,4 +1,9 @@
 #### Example about autouse=True in Fixture of Pytest
+Scopes in Fixture of Pytest:
+1. `function`
+2. `class`
+3. `module`
+4. `session`
 ```
 import pytest
 
